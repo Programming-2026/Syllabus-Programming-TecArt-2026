@@ -4,7 +4,7 @@ Fokus: **Data Structures & Algorithms (DSA)**, **Competitive Programming**, dan 
 ---
 
 ## 🎯 Deskripsi Umum
-Syllabus ini disusun sebagai panduan pembelajaran **Divisi Programming TecArt** yang berfokus pada **Competitive Programming**.  
+Syllabus ini disusun sebagai panduan pembelajaran **Divisi Programming TecArt** yang berfokus pada **DSA**.  
 Materi yang dibahas mencakup **struktur data dan algoritma** yang sering muncul dalam kompetisi seperti **GEMASTIK, ICPC, OSN, dan lomba nasional lainnya**, disertai latihan terarah melalui berbagai platform *online judge*.
 
 ---
@@ -192,13 +192,3 @@ Graph terdiri dari vertex dan edge untuk merepresentasikan hubungan kompleks.
 ### Depth First Search (DFS)
 **Deskripsi:** Traversal graph secara mendalam.  
 **Capaian:** Menggunakan DFS untuk eksplorasi graph dan tree.
-
----
-
-## 🏁 Penutup
-Dokumen ini menjadi **acuan resmi pembelajaran Divisi Programming TecArt** dan dapat dikembangkan menjadi:
-- roadmap mingguan
-- bootcamp internal
-- persiapan kompetisi **GEMASTIK, ICPC, dan lomba nasional lainnya**
-
-> ✨ *Think algorithmically, solve competitively.*
